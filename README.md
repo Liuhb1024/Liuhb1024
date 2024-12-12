@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+AU+VIC+WA+NT+Hand&weight=500&size=25&pause=1000&color=7351B6CD&center=true&random=true&width=435&lines=Liuhb1024;welcome+your+visit)](https://git.io/typing-svg)
 
-<p>我是普通技术狂热者 画笔 🐧🛸</p>
+<p>🐧🛸我是普通技术狂热者 画笔 🐧🛸</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liuhb1024&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,7 +14,7 @@
 <img
   align=""
   height="137px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liuhb1024&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaogithubooo&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 [![github](https://img.shields.io/badge/github-Liuhb1024-red)](https://github.com/Liuhb1024)
 [![gitee](https://img.shields.io/badge/gitee-Liuhb1024-orange)](https://gitee.com/Liuhb1024)
