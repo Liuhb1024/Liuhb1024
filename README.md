@@ -2,7 +2,9 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+AU+VIC+WA+NT+Hand&weight=500&size=25&pause=1000&color=7351B6CD&center=true&random=true&width=435&lines=Liuhb1024;welcome+your+visit)](https://git.io/typing-svg)
 
-<p>🐧🛸我是普通技术狂热者 画笔 🐧🛸</p>
+<h2>我是程序员画笔🖌️</h2>
+---
+<p>您好呀！👋我是一名大三在读的学生 + 热爱技术新手程序员🛸🐧</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liuhb1024&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
