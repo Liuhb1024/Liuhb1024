@@ -17,20 +17,15 @@
   src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Liuhb1024&hide_title=true&hide_border=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 [![github](https://img.shields.io/badge/github-Liuhb1024-red)](https://github.com/Liuhb1024)
-[![gitee](https://img.shields.io/badge/gitee-Liuhb1024-orange)]([https://gitee.com/Liuhb1024](https://gitee.com/liuhb-clanguage))
-[![CSDN](https://img.shields.io/badge/CSDN-Liuhb1024-yellow)]([https://blog.csdn.net/m0_73168361?spm=1000.2115.3001.5343](https://blog.csdn.net/m0_73075027?spm=1000.2115.3001.5343))
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Liuhb1024-green)]([https://www.zhihu.com/people/Liuhb1024](https://www.zhihu.com/people/a-li-69-1-66))
-
----
-[![github](https://img.shields.io/badge/github-Liuhb1024-red)](https://github.com/Liuhb1024)
 [![gitee](https://img.shields.io/badge/gitee-Liuhb1024-orange)](https://gitee.com/liuhb-clanguage)
 [![CSDN](https://img.shields.io/badge/CSDN-Liuhb1024-yellow)](https://blog.csdn.net/m0_73075027?spm=1000.2115.3001.5343)
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Liuhb1024-green)](https://www.zhihu.com/people/a-li-69-1-66)
 
 ![](https://img.shields.io/badge/爱好-技术-cyan)
-![](https://img.shields.io/badge/厌恶-随意-blue) 
+![](https://img.shields.io/badge/心态-空杯-blue) 
 ![](https://img.shields.io/badge/性格-沉稳-purple)
-![](https://img.shields.io/badge/性格-沉稳-purple)
+![](https://img.shields.io/badge/成长-全局-yellow)
+![](https://img.shields.io/badge/不足-专业度-green)
 
 ![Visitor Count](https://profile-counter.glitch.me/Liuhb1024/count.svg)
 
