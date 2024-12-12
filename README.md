@@ -16,7 +16,7 @@
   height="137px"
   src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Liuhb1024&hide_title=true&hide_border=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-[![github](https://img.shields.io/badge/github-Liuhb1024-gley)](https://github.com/Liuhb1024)
+[![github](https://img.shields.io/badge/github-Liuhb1024-purple)](https://github.com/Liuhb1024)
 [![gitee](https://img.shields.io/badge/gitee-Liuhb1024-red)](https://gitee.com/liuhb-clanguage)
 [![CSDN](https://img.shields.io/badge/CSDN-Liuhb1024-orange)](https://blog.csdn.net/m0_73075027?spm=1000.2115.3001.5343)
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Liuhb1024-blue)](https://www.zhihu.com/people/a-li-69-1-66)
