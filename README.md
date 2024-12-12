@@ -12,7 +12,7 @@
   src="https://github-readme-stats.vercel.app/api?username=Liuhb1024&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"
   />
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liuhb1024&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liuhb1024)](https://github.com/anuraghazra/github-readme-stats)
 
 [![github](https://img.shields.io/badge/github-Liuhb1024-red)](https://github.com/Liuhb1024)
 [![gitee](https://img.shields.io/badge/gitee-Liuhb1024-orange)](https://gitee.com/Liuhb1024)
