@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/爱好-技术-cyan)
 ![](https://img.shields.io/badge/厌恶-随意-blue) 
 ![](https://img.shields.io/badge/性格-沉稳-purple)
+![](https://img.shields.io/badge/性格-沉稳-purple)
 
 ![Visitor Count](https://profile-counter.glitch.me/Liuhb1024/count.svg)
 
