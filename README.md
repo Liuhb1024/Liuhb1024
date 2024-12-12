@@ -9,6 +9,9 @@
 <h2>我是程序员画笔🖌️</h2>
 <p>您好呀！👋我是一名大三在读的学生 + 热爱技术新手程序员🛸🐧</p>
 
+</div>
+
+<div id="card" algin=center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liuhb1024&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img
