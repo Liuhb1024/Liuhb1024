@@ -36,6 +36,5 @@
 ![](https://img.shields.io/badge/成长-全局-yellow)
 ![](https://img.shields.io/badge/不足-专业度-green)
 
-![Visitor Count](https://profile-counter.glitch.me/Liuhb1024/count.svg)
 
 </div>
