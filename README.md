@@ -8,12 +8,6 @@
 
 ---
 
-<div align="center">
-
-### `while(alive) { learn(); code(); build(); evolve(); }`
-
-</div>
-
 ## 👨‍💻 About Me
 
 🙋‍♂️ 昵称：画笔
