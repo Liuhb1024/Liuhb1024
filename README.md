@@ -20,21 +20,21 @@
 
 #### 一个热爱技术、相信长期主义、正在从“会写代码”走向“能独立做项目”的开发者。
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,mysql,redis,linux,git,github,docker,html,css,js,vue,idea,vscode,md&perline=9" />
 </div>
 
 
-🔭 Current Focus
+## 🔭 Current Focus
 	•	深入学习 Java 后端开发
 	•	提升 Spring Boot / MySQL / Redis 实战能力
 	•	强化 Linux / Git / Docker / 部署与工程化能力
 	•	做能真正落地、能持续迭代的项目
 	•	朝“独立交付复杂系统”的工程师方向成长
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Liuhb1024&theme=tokyonight&hide_border=true" />
