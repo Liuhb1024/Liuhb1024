@@ -47,50 +47,6 @@
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liuhb1024&theme=tokyonight" />
 </div>
 
-## 🏆 Dev Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Liuhb1024&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
-
-## 🧰 Tools I Use
-
-![IntelliJ IDEA](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![macOS](https://img.shields.io/badge/System-macOS-000000?style=for-the-badge&logo=apple)
-![iTerm2](https://img.shields.io/badge/Terminal-iTerm2-000000?style=for-the-badge&logo=iterm2)
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🌌 Coding Philosophy
-
-写代码不只是为了“实现功能”，而是为了：
-
-- 让系统更清晰
-- 让需求更容易迭代
-- 让问题更容易排查
-- 让自己不断变强
-
-## 🚀 Featured Directions
-
-- 后端系统开发
-- Web 项目设计与实现
-- 工程化与项目部署
-- AI + 软件应用结合
-- 有趣的小工具 / 实验型项目 / 个人作品
-
-## 📌 Profile Tags
-
-![Focus](https://img.shields.io/badge/Focus-Backend-58A6FF?style=flat-square)
-![Mindset](https://img.shields.io/badge/Mindset-Keep%20Learning-7A3EFF?style=flat-square)
-![Style](https://img.shields.io/badge/Style-Build%20First-FFB000?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Leveling%20Up-2EA043?style=flat-square)
-![Character](https://img.shields.io/badge/Character-Calm%20and%20Steady-8B5CF6?style=flat-square)
-
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Liuhb1024-181717?style=for-the-badge&logo=github)](https://github.com/Liuhb1024)
-[![Gitee](https://img.shields.io/badge/Gitee-Liuhb1024-C71D23?style=for-the-badge&logo=gitee)](https://gitee.com/liuhb-clanguage)
-[![CSDN](https://img.shields.io/badge/CSDN-Liuhb1024-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/m0_73075027?spm=1000.2115.3001.5343)
-[![Zhihu](https://img.shields.io/badge/Zhihu-Liuhb1024-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/a-li-69-1-66)
-
 ## 🤖 AI / Multimodal Developer Panel
 
 <div align="center">
@@ -133,6 +89,46 @@
 ![Agents](https://img.shields.io/badge/Interest-AI%20Agents-F59E0B?style=for-the-badge)
 
 </div>
+
+## 🧰 Tools I Use
+
+![IntelliJ IDEA](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![macOS](https://img.shields.io/badge/System-macOS-000000?style=for-the-badge&logo=apple)
+![iTerm2](https://img.shields.io/badge/Terminal-iTerm2-000000?style=for-the-badge&logo=iterm2)
+![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌌 Coding Philosophy
+
+写代码不只是为了“实现功能”，而是为了：
+
+- 让系统更清晰
+- 让需求更容易迭代
+- 让问题更容易排查
+- 让自己不断变强
+
+## 🚀 Featured Directions
+
+- 后端系统开发
+- Web 项目设计与实现
+- 工程化与项目部署
+- AI + 软件应用结合
+- 有趣的小工具 / 实验型项目 / 个人作品
+
+## 📌 Profile Tags
+
+![Focus](https://img.shields.io/badge/Focus-Backend-58A6FF?style=flat-square)
+![Mindset](https://img.shields.io/badge/Mindset-Keep%20Learning-7A3EFF?style=flat-square)
+![Style](https://img.shields.io/badge/Style-Build%20First-FFB000?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Leveling%20Up-2EA043?style=flat-square)
+![Character](https://img.shields.io/badge/Character-Calm%20and%20Steady-8B5CF6?style=flat-square)
+
+## 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Liuhb1024-181717?style=for-the-badge&logo=github)](https://github.com/Liuhb1024)
+[![Gitee](https://img.shields.io/badge/Gitee-Liuhb1024-C71D23?style=for-the-badge&logo=gitee)](https://gitee.com/liuhb-clanguage)
+[![CSDN](https://img.shields.io/badge/CSDN-Liuhb1024-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/m0_73075027?spm=1000.2115.3001.5343)
+[![Zhihu](https://img.shields.io/badge/Zhihu-Liuhb1024-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/a-li-69-1-66)
 
 ## ⚡ Fun Facts
 
