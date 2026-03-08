@@ -1,6 +1,6 @@
 <div align="center">
 
-# 你好，我是 Liu Haobin / 画笔 🖌️
+# 你好，我是 画笔 🖌️
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineering+Student;Backend+Developer+in+Progress;Code.+Build.+Break.+Learn.;Dream+big%2C+ship+fast+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -10,15 +10,15 @@
 
 ## 👨‍💻 About Me
 
-🙋‍♂️ 昵称：画笔
-🎓 身份：软件工程在读学生
-💻 方向：后端开发 / 工程化 / 系统设计 / 实战落地
-🌱 状态：持续成长中的开发者
-🚀 信条：先把东西做出来，再把它做漂亮、做稳定、做扎实
+#### 🙋‍♂️ 昵称：画笔
+#### 🎓 身份：软件工程在读学生
+#### 💻 方向：后端开发 / 工程化 / 系统设计 / 实战落地
+#### 🌱 状态：持续成长中的开发者
+#### 🚀 信条：先把东西做出来，再把它做漂亮、做稳定、做扎实
 
-🧠 Me in One Sentence
+#### 🧠 Me in One Sentence
 
-一个热爱技术、相信长期主义、正在从“会写代码”走向“能独立做项目”的开发者。
+#### 一个热爱技术、相信长期主义、正在从“会写代码”走向“能独立做项目”的开发者。
 
 ⚙️ Tech Stack
 
