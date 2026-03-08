@@ -91,12 +91,48 @@
 [![CSDN](https://img.shields.io/badge/CSDN-Liuhb1024-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/m0_73075027?spm=1000.2115.3001.5343)
 [![Zhihu](https://img.shields.io/badge/Zhihu-Liuhb1024-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/a-li-69-1-66)
 
-## 🎯 Current Mission
+## 🤖 AI / Multimodal Developer Panel
 
-- 打磨基础
-- 多做项目
-- 形成自己的技术审美
-- 从“能写”进阶到“写得好、设计得好、交付得好”
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,docker,linux,git,github,vscode,idea&perline=10" />
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 🧠 Current AI Focus
+- Multimodal Applications
+- AI Agent Workflows
+- RAG / Knowledge Systems
+- LLM App Development
+- Backend for AI Products
+
+    </td>
+    <td width="50%">
+
+### 🚀 Learning Direction
+- Prompt Engineering
+- Model Serving / Deployment
+- Vector Database / Retrieval
+- AI Product Engineering
+- End-to-End System Building
+
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/Focus-AI%20Engineering-8A2BE2?style=for-the-badge)
+![Multimodal](https://img.shields.io/badge/Direction-Multimodal-00C2FF?style=for-the-badge)
+![LLM](https://img.shields.io/badge/Stack-LLM%20Apps-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/Skill-RAG%20Systems-16A34A?style=for-the-badge)
+![Agents](https://img.shields.io/badge/Interest-AI%20Agents-F59E0B?style=for-the-badge)
+
+</div>
 
 ## ⚡ Fun Facts
 
